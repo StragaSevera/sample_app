@@ -53,6 +53,8 @@ group :development do
   gem 'guard'
   gem 'guard-minitest'
   gem 'minitest-reporters'
+  gem 'pry'
+  gem 'pry-rails'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
